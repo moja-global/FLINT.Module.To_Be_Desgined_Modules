@@ -29,7 +29,8 @@ moja global would like to recognise the contribution of the Government of Canada
 
 The following people are Maintainers Reviewers Ambassadors or Coaches
 
-<table><tr><td align="center"><a href="https://github.com/gmajan"><img src="https://avatars0.githubusercontent.com/u/8733319?v=4" width="100px;" alt="Guy Janssen"/><br /><sub><b>Guy Janssen</b></sub></a><br /><a href="#maintenance-gmajan" title="Maintenance">🚧</a></td></tr></table>
+<table><tr><td align="center"><a href="https://github.com/gmajan"><img src="https://avatars0.githubusercontent.com/u/8733319?v=4" width="100px;" alt="Guy Janssen"/><br /><sub><b>Guy Janssen</b></sub></a><br /><a href="#maintenance-gmajan" title="Maintenance">🚧</a></td>
+  <td align="center"><a href="https://github.com/RobboW"><img src="https://avatars0.githubusercontent.com/u/8421695?s=400&u=0952f478b8830e48e61add60c41aafd98779c8a8&v=4" width="100px;" alt="Rob"/><br /><sub><b>Rob</b></sub></a><br /><a href="#maintenance-rob" title="Maintenance">:construction:</a></td></tr></table>
 
 **Maintainers** review and accept proposed changes  
 **Reviewers** check proposed changes before they go to the Maintainers  
