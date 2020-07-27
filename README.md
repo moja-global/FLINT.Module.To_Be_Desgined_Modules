@@ -1,7 +1,9 @@
 # FLINT.modules + module development approach
-This repo contains two blocks on info: Which modules could still be developed and Which steps can best be followed when developing a new module. 
+This repo contains two blocks on info: 
+* Which modules could still be developed and 
+* Which steps can best be followed when developing a new module. 
 
-Please add all ideas for additional modules that can be attached to the FLINT as issues. 
+Please add all ideas for additional modules that can be attached to the FLINT as issues. Once you decide to actually build or research the module please start a new repo specifically for this work. (e.g. [Forest Biomass Models](https://github.com/moja-global/FLINT.Module.Forest_biomass_model))
 
 The process to be followed when developing a module is also documented here. Please add suggetions based on your own experience. 
 
