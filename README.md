@@ -1,5 +1,9 @@
-# FLINT.modules
-Repo for all the open source modules that can be attached to the FLINT
+# FLINT.modules + module development approach
+This repo contains two blocks on info: Which modules could still be developed and Which steps can best be followed when developing a new module. 
+
+Please add all ideas for additional modules that can be attached to the FLINT as issues. 
+
+The process to be followed when developing a module is also documented here. Please add suggetions based on your own experience. 
 
 
 ## Contributors
